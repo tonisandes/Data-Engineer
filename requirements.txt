@@ -1,0 +1,5 @@
+numpy<2
+pandas==2.0.3
+pyarrow==14.0.0
+sqlalchemy==2.0.25
+requests==2.31.0
